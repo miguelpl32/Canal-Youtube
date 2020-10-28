@@ -34,19 +34,19 @@ export class HomeComponent implements OnInit {
     Swal.fire({
       html: `
       <h4> ${video.title} </h4>
-      <iframe width="100%" 
-        height="315" 
-        src="https://www.youtube.com/embed/${video.resourceId.videoId}" 
-        frameborder="0" 
-        allow="accelerometer; 
-        autoplay; clipboard-write; 
-        encrypted-media; 
-        gyroscope; 
-        picture-in-picture" 
+      <iframe width="100%"
+        height="315"
+        src="https://www.youtube.com/embed/${video.resourceId.videoId}"
+        frameborder="0"
+        allow="accelerometer;
+        autoplay; clipboard-write;
+        encrypted-media;
+        gyroscope;
+        picture-in-picture"
         allowfullscreen>
       </iframe>
       `
-    })
+    });
   }
 
 }
