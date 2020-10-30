@@ -5,6 +5,7 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 ## Objetivo
 + Conexion Api Youtube.
 + Cargar videos de 12 en 12 sin recargar pagina y aumentando el scroll.
++ Creacion de Modal con reproductor de video.
 + Deployment en Heroku
 
 ### Visita el proyecto.
