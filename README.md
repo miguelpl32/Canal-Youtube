@@ -15,3 +15,4 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 ![](src/assets/youtube-app.jpg)
 
 
++ Carpeta environment eliminada por motivos de seguridad
