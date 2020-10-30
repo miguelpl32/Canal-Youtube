@@ -30,15 +30,15 @@ export interface Video {
 }
 
 export enum ChannelID {
-  UCUAPTYj15JSkETGnEseaFFg = 'UCuaPTYj15JSkETGnEseaFFg',
+  UUgO1C90_c6jCo1EBw1sxJdA = 'UUgO1C90_c6jCo1EBw1sxJdA',
 }
 
 export enum ChannelTitle {
-  FernandoHerrera = 'Fernando Herrera',
+  MusicaAcustica = 'Musica Acustica',
 }
 
 export enum PlaylistID {
-  UUuaPTYj15JSkETGnEseaFFg = 'UUuaPTYj15JSkETGnEseaFFg',
+  UUgO1C90_c6jCo1EBw1sxJdA = 'UUgO1C90_c6jCo1EBw1sxJdA',
 }
 
 export interface ResourceID {
