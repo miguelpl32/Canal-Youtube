@@ -12,5 +12,6 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 
 [Visita el proyecto](https://appyoutube2.herokuapp.com/)
 
+![](src/assets/youtube-app.jpg)
 
 
