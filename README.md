@@ -10,7 +10,7 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://appyoutube2.herokuapp.com/)
+[Visita el proyecto](https://appyou.netlify.app/)
 
 ![](src/assets/youtube-app.jpg)
 
